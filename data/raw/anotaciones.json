@@ -1,0 +1,38 @@
+{
+  "chihuahua_190": {
+    "class_id": 11,
+    "species_id": 2,
+    "breed_id": 6,
+    "width": 300,
+    "height": 199,
+    "depth": 3,
+    "bbox": [{"xmin": 83, "ymin": 10, "xmax": 205, "ymax": 128}]
+  },
+  "Maine_Coon_186": {
+    "class_id": 21,
+    "species_id": 1,
+    "breed_id": 7,
+    "width": 327,
+    "height": 500,
+    "depth": 3,
+    "bbox": [{"xmin": 75, "ymin": 17, "xmax": 247, "ymax": 198}]
+  },
+  "Siamese_101": {
+    "class_id": 33,
+    "species_id": 1,
+    "breed_id": 11,
+    "width": 375,
+    "height": 500,
+    "depth": 3,
+    "bbox": [{"xmin": 126, "ymin": 128, "xmax": 194, "ymax": 206}]
+  },
+  "Sphynx_19": {
+    "class_id": 34,
+    "species_id": 1,
+    "breed_id": 12,
+    "width": 500,
+    "height": 472,
+    "depth": 3,
+    "bbox": [{"xmin": 210, "ymin": 15, "xmax": 430, "ymax": 271}]
+  }
+}
